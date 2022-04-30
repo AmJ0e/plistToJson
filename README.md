@@ -9,7 +9,7 @@ OR
 You can import the plistparser.py file in your own code and call plistToJson and pass filename to it as argument.
 Eg: plistToJson(pathToPListFile)
 
-# Depenendencies?
+# Dependencies?
 No Requirements, works with base installation and libraries
 Code tested in python 3.9
 
